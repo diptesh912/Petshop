@@ -1,0 +1,33 @@
+
+  		.logo-font{
+  			font-size: 1em;
+
+  		}
+  		.logo-img{
+  			height:30px;
+  			width:50px;
+  		}
+
+  		.product-image{
+  			height:70%;
+  			width:80%;
+  		}
+
+  		.product-name{
+  			margin-top:15px;
+  			font-size:0.9em;
+  		}
+
+  		.custom {
+    			width: 90% !important;
+		}
+		.custom-header{
+			width:100%;
+		}
+
+		.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
+  
